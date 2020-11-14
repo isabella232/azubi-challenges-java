@@ -1,8 +1,7 @@
-package test.java.azubi.challenge.firstyear;
+package azubi.challenges.task008;
 
 import org.junit.Test;
 
-import main.java.azubi.challenge.firstyear.MultiDimensionalArrays;
 import static org.junit.Assert.*;
 
 public class MultiDimensionalArraysTest {
